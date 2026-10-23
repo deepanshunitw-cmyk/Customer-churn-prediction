@@ -205,11 +205,12 @@ If a demonstration uses simulated treatment outcomes, those results must be iden
 - Predictions do not establish causality or identify the true reason a customer leaves.
 - Retention interventions should be tested before assuming they reduce churn.
 
-## 👨‍💻 Author
+## 🌐 Live Demo
 
-**Deepanshu Sonkar**
+**Try the deployed application:** [Telco Customer Churn Prediction](https://customer-churn-prediction-3ml22tq76h6dgw4c89ncde.streamlit.app/)
 
-- GitHub:https://github.com/deepanshunitw-cmyk
+Explore the interactive application to enter customer details, generate churn predictions, and view model evaluation metrics.
 
+**Technologies:** Python | Scikit-learn | Pandas | Joblib | Streamlit
 
 
