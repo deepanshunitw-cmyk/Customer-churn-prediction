@@ -211,6 +211,5 @@ If a demonstration uses simulated treatment outcomes, those results must be iden
 
 - GitHub:https://github.com/deepanshunitw-cmyk
 
-Replace the placeholders with your actual profile details.
 
 
