@@ -207,17 +207,10 @@ If a demonstration uses simulated treatment outcomes, those results must be iden
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Deepanshu Sonkar**
 
-- GitHub: [YOUR-GITHUB-PROFILE](https://github.com/YOUR-USERNAME)
-- LinkedIn: [YOUR-LINKEDIN-PROFILE](https://www.linkedin.com/)
+- GitHub:https://github.com/deepanshunitw-cmyk
 
 Replace the placeholders with your actual profile details.
 
-## 📄 License
 
-If you intend to make this project reusable by others, consider adding an appropriate open-source license. Confirm the dataset's terms of use before redistributing it.
-
----
-
-**If you find this project useful, consider giving the repository a star!**
