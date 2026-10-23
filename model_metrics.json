@@ -1,0 +1,9 @@
+{
+    "model_name": "Tuned Random Forest",
+    "accuracy": 0.7725118483412322,
+    "precision": 0.5539280958721704,
+    "recall": 0.7415329768270945,
+    "f1_score": 0.6341463414634146,
+    "roc_auc": 0.8510700365597264,
+    "test_sample_size": 2110
+}
